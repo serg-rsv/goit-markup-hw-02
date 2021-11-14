@@ -126,6 +126,8 @@ body {
 
 /* Портфолио */
 .btn-filter {
+  cursor: pointer;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
